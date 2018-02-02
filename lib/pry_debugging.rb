@@ -1,5 +1,6 @@
 def plus_two(num)
-	puts "{#{num} + 2}"
+	number = num + 2
+	number
 
 
 end
